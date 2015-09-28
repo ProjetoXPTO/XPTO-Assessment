@@ -1,0 +1,124 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+	<title>Resultados por Grupo de Processo</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+	<script src="http://code.highcharts.com/highcharts.js"></script>
+	<script src="http://code.highcharts.com/modules/exporting.js"></script>
+	<script type="text/javascript" src="WebAPI.js"></script>
+
+</head>
+<body>
+	<div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+
+
+	<script type="text/javascript">
+
+
+		var resposta;
+		var resp1;
+		var resp2;
+		var resp3;
+		var resp4;
+		var resp5;
+		var resp6;
+		var resp7;
+		var resp8;
+		var resp9;
+		var objeto;
+
+		//Chamar método do Controller ResultByGP
+		objeto = WebAPI.get("api/ResultByProcesso/obterAvaliacao");
+
+		resposta = objeto.value;
+		resp1 = resposta.processo1;
+		resp2 = resposta.processo2;
+		resp3 = resposta.processo3;
+		resp4 = resposta.processo4;
+		resp5 = resposta.processo5;
+		resp6 = resposta.processo6;
+		resp7 = resposta.processo7;
+		resp8 = resposta.processo8;
+		resp9 = resposta.processo9;
+
+
+
+		$(function () {
+			$('#container').highcharts({
+				chart: {
+					type: 'column'
+				},
+				title: {
+					text: 'Resultados por Grupo de Processos'
+				},
+				subtitle: {
+					text: 'Fonte: XPTO Consulting'
+				},
+				xAxis: {
+					categories: [
+						'Desenvolver segmentação de serviço ao cliente/priorização',
+						'Definir políticas e procedimentos de atendimento ao cliente',
+						'Estabelecer níveis de serviço para clientes',
+						'Planejar e gerenciar equipe de atendimento ao cliente',
+						'Gerenciar os pedidos de atendimento ao cliente',
+						'Gerenciar reclamações dos clientes',
+						'Medir a satisfação do cliente quanto aos pedidos feitos',
+						'Medir a satisfação do cliente quanto às reclamações',
+						'Medir a satisfação do cliente com os produtos e serviços'
+
+					],
+					crosshair: true
+				},
+				yAxis: {
+					min: 0,
+					max: 5,
+					title: {
+						text: 'Maturidade'
+					}
+				},
+				tooltip: {
+					headerFormat: '<span style="font-size:10px">{point.key}</span><table>',
+					pointFormat: '<tr><td style="color:{series.color};padding:0">{series.name}: </td>' +
+						'<td style="padding:0"><b>{point.y:.1f} mm</b></td></tr>',
+					footerFormat: '</table>',
+					shared: true,
+					useHTML: true
+				},
+				plotOptions: {
+					column: {
+						pointPadding: 0.2,
+						borderWidth: 0
+					}
+				},
+				series: [{
+					name: 'Minha Empresa',
+					data: [resp1, resp2, resp3,resp4,resp5,resp6,resp7,resp8,resp9]
+
+				}, {
+					name: 'Benchmark',
+					data: [3, 4, 5,3,4,1,4,2,1,]
+
+				}]
+			});
+		});
+
+
+
+
+
+
+
+
+
+	</script>
+
+
+
+</body>
+</html>

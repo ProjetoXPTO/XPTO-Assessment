@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+	
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+    <title>Resultados por Grupo de Processo</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+	<script src="http://code.highcharts.com/highcharts.js"></script>
+	<script src="http://code.highcharts.com/modules/exporting.js"></script>
+	<script type="text/javascript" src="WebAPI.js"></script>
+	
+</head>
+<body>
+	<div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+
+
+	<script type="text/javascript">
+
+			
+			var resposta;
+			var resp1;
+			var resp2;
+			var resp3;
+			var objeto;
+
+		//Chamar método do Controller ResultByGP
+			objeto = WebAPI.get("api/ResultByGP/obterAvaliacao");
+
+			resposta = objeto.value;
+			resp1 = resposta.nota51;
+			resp2 = resposta.nota52;
+			resp3 = resposta.nota53;
+
+
+			$(function () {
+				$('#container').highcharts({
+					chart: {
+						type: 'column'
+					},
+					title: {
+						text: 'Resultados por Grupo de Processos'
+					},
+					subtitle: {
+						text: 'Fonte: XPTO Consulting'
+					},
+					xAxis: {
+						categories: [
+							'Desenvolver cuidados com a estratégia de atendimento ao cliente',
+							'Planejar e gerenciar serviços de atendimento ao cliente',
+							'Medir e avaliar as operações de atendimento ao cliente'
+
+						],
+						crosshair: true
+					},
+					yAxis: {
+						min: 0,
+						max: 5,
+						title: {
+							text: 'Maturidade'
+						}
+					},
+					tooltip: {
+						headerFormat: '<span style="font-size:10px">{point.key}</span><table>',
+						pointFormat: '<tr><td style="color:{series.color};padding:0">{series.name}: </td>' +
+							'<td style="padding:0"><b>{point.y:.1f} mm</b></td></tr>',
+						footerFormat: '</table>',
+						shared: true,
+						useHTML: true
+					},
+					plotOptions: {
+						column: {
+							pointPadding: 0.2,
+							borderWidth: 0
+						}
+					},
+					series: [{
+						name: 'Minha Empresa',
+						data: [resp1, resp2, resp3]
+
+					}, {
+						name: 'Benchmark',
+						data: [3, 4, 5]
+
+					}]
+				});
+			});
+		
+		
+
+
+
+
+
+
+
+	</script>
+
+
+
+</body>
+</html>

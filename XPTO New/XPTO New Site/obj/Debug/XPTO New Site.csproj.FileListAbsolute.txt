@@ -1,0 +1,126 @@
+C:\VisualStudio\XPTO New Site\bin\XPTO New Site.dll.config
+C:\VisualStudio\XPTO New Site\bin\XPTO New Site.dll
+C:\VisualStudio\XPTO New Site\bin\XPTO New Site.pdb
+C:\VisualStudio\XPTO New Site\bin\Newtonsoft.Json.dll
+C:\VisualStudio\XPTO New Site\bin\System.Net.Http.Formatting.dll
+C:\VisualStudio\XPTO New Site\bin\System.Web.Http.dll
+C:\VisualStudio\XPTO New Site\bin\System.Web.Http.WebHost.dll
+C:\VisualStudio\XPTO New Site\bin\Newtonsoft.Json.xml
+C:\VisualStudio\XPTO New Site\bin\System.Net.Http.Formatting.xml
+C:\VisualStudio\XPTO New Site\bin\System.Web.Http.xml
+C:\VisualStudio\XPTO New Site\bin\System.Web.Http.WebHost.xml
+C:\VisualStudio\XPTO New Site\obj\Debug\XPTO New Site.csprojResolveAssemblyReference.cache
+C:\VisualStudio\XPTO New Site\obj\Debug\XPTO New Site.dll
+C:\VisualStudio\XPTO New Site\obj\Debug\XPTO New Site.pdb
+C:\Users\Emerson\Downloads\XPTO New Site\obj\Debug\XPTO New Site.csprojResolveAssemblyReference.cache
+C:\Users\Emerson\Downloads\XPTO New Site\obj\Debug\XPTO New Site.dll
+C:\Users\Emerson\Downloads\XPTO New Site\obj\Debug\XPTO New Site.pdb
+C:\Users\Emerson\Desktop\XPTO New\XPTO New Site\obj\Debug\XPTO New Site.csprojResolveAssemblyReference.cache
+C:\Users\Emerson\Desktop\XPTO New\XPTO New Site\obj\Debug\XPTO New Site.dll
+C:\Users\Emerson\Desktop\XPTO New\XPTO New Site\obj\Debug\XPTO New Site.pdb
+C:\Users\aluno\Downloads\XPTO New\XPTO New Site\obj\Debug\XPTO New Site.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Downloads\XPTO New\XPTO New Site\obj\Debug\XPTO New Site.dll
+C:\Users\aluno\Downloads\XPTO New\XPTO New Site\obj\Debug\XPTO New Site.pdb
+C:\Users\aluno\Downloads\XPTO New\XPTO New Site\bin\XPTO New Site.dll.config
+C:\Users\aluno\Downloads\XPTO New\XPTO New Site\bin\XPTO New Site.dll
+C:\Users\aluno\Downloads\XPTO New\XPTO New Site\bin\XPTO New Site.pdb
+C:\Users\aluno\Downloads\XPTO New\XPTO New Site\bin\Newtonsoft.Json.dll
+C:\Users\aluno\Downloads\XPTO New\XPTO New Site\bin\System.Net.Http.Formatting.dll
+C:\Users\aluno\Downloads\XPTO New\XPTO New Site\bin\System.Web.Http.dll
+C:\Users\aluno\Downloads\XPTO New\XPTO New Site\bin\System.Web.Http.WebHost.dll
+C:\Users\aluno\Downloads\XPTO New\XPTO New Site\bin\Newtonsoft.Json.xml
+C:\Users\aluno\Downloads\XPTO New\XPTO New Site\bin\System.Net.Http.Formatting.xml
+C:\Users\aluno\Downloads\XPTO New\XPTO New Site\bin\System.Web.Http.xml
+C:\Users\aluno\Downloads\XPTO New\XPTO New Site\bin\System.Web.Http.WebHost.xml
+C:\Users\aluno\Desktop\XPTO New\XPTO New Site\bin\XPTO New Site.dll.config
+C:\Users\aluno\Desktop\XPTO New\XPTO New Site\bin\XPTO New Site.dll
+C:\Users\aluno\Desktop\XPTO New\XPTO New Site\bin\XPTO New Site.pdb
+C:\Users\aluno\Desktop\XPTO New\XPTO New Site\bin\Newtonsoft.Json.dll
+C:\Users\aluno\Desktop\XPTO New\XPTO New Site\bin\System.Net.Http.Formatting.dll
+C:\Users\aluno\Desktop\XPTO New\XPTO New Site\bin\System.Web.Http.dll
+C:\Users\aluno\Desktop\XPTO New\XPTO New Site\bin\System.Web.Http.WebHost.dll
+C:\Users\aluno\Desktop\XPTO New\XPTO New Site\bin\Newtonsoft.Json.xml
+C:\Users\aluno\Desktop\XPTO New\XPTO New Site\bin\System.Net.Http.Formatting.xml
+C:\Users\aluno\Desktop\XPTO New\XPTO New Site\bin\System.Web.Http.xml
+C:\Users\aluno\Desktop\XPTO New\XPTO New Site\bin\System.Web.Http.WebHost.xml
+C:\Users\aluno\Desktop\XPTO New\XPTO New Site\obj\Debug\XPTO New Site.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\XPTO New\XPTO New Site\obj\Debug\XPTO New Site.dll
+C:\Users\aluno\Desktop\XPTO New\XPTO New Site\obj\Debug\XPTO New Site.pdb
+C:\Users\Emerson\Documents\XPTO2.0\XPTO New\XPTO New Site\bin\XPTO New Site.dll.config
+C:\Users\Emerson\Documents\XPTO2.0\XPTO New\XPTO New Site\bin\XPTO New Site.dll
+C:\Users\Emerson\Documents\XPTO2.0\XPTO New\XPTO New Site\bin\XPTO New Site.pdb
+C:\Users\Emerson\Documents\XPTO2.0\XPTO New\XPTO New Site\bin\Newtonsoft.Json.dll
+C:\Users\Emerson\Documents\XPTO2.0\XPTO New\XPTO New Site\bin\System.Net.Http.Formatting.dll
+C:\Users\Emerson\Documents\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.Http.dll
+C:\Users\Emerson\Documents\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.Http.WebHost.dll
+C:\Users\Emerson\Documents\XPTO2.0\XPTO New\XPTO New Site\bin\Newtonsoft.Json.xml
+C:\Users\Emerson\Documents\XPTO2.0\XPTO New\XPTO New Site\bin\System.Net.Http.Formatting.xml
+C:\Users\Emerson\Documents\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.Http.xml
+C:\Users\Emerson\Documents\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.Http.WebHost.xml
+C:\Users\Emerson\Documents\XPTO2.0\XPTO New\XPTO New Site\obj\Debug\XPTO New Site.csprojResolveAssemblyReference.cache
+C:\Users\Emerson\Documents\XPTO2.0\XPTO New\XPTO New Site\obj\Debug\XPTO New Site.dll
+C:\Users\Emerson\Documents\XPTO2.0\XPTO New\XPTO New Site\obj\Debug\XPTO New Site.pdb
+C:\Users\aluno\Downloads\XPTO2.0\XPTO New\XPTO New Site\bin\XPTO New Site.dll.config
+C:\Users\aluno\Downloads\XPTO2.0\XPTO New\XPTO New Site\bin\XPTO New Site.dll
+C:\Users\aluno\Downloads\XPTO2.0\XPTO New\XPTO New Site\bin\XPTO New Site.pdb
+C:\Users\aluno\Downloads\XPTO2.0\XPTO New\XPTO New Site\bin\Newtonsoft.Json.dll
+C:\Users\aluno\Downloads\XPTO2.0\XPTO New\XPTO New Site\bin\System.Net.Http.Formatting.dll
+C:\Users\aluno\Downloads\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.Http.dll
+C:\Users\aluno\Downloads\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.Http.WebHost.dll
+C:\Users\aluno\Downloads\XPTO2.0\XPTO New\XPTO New Site\bin\Newtonsoft.Json.xml
+C:\Users\aluno\Downloads\XPTO2.0\XPTO New\XPTO New Site\bin\System.Net.Http.Formatting.xml
+C:\Users\aluno\Downloads\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.Http.xml
+C:\Users\aluno\Downloads\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.Http.WebHost.xml
+C:\Users\aluno\Downloads\XPTO2.0\XPTO New\XPTO New Site\obj\Debug\XPTO New Site.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Downloads\XPTO2.0\XPTO New\XPTO New Site\obj\Debug\XPTO New Site.dll
+C:\Users\aluno\Downloads\XPTO2.0\XPTO New\XPTO New Site\obj\Debug\XPTO New Site.pdb
+C:\Users\aluno\Downloads\XPTO2.0\XPTO New\XPTO New Site\bin\Antlr3.Runtime.dll
+C:\Users\aluno\Downloads\XPTO2.0\XPTO New\XPTO New Site\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aluno\Downloads\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.Helpers.dll
+C:\Users\aluno\Downloads\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.Mvc.dll
+C:\Users\aluno\Downloads\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.Optimization.dll
+C:\Users\aluno\Downloads\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.Razor.dll
+C:\Users\aluno\Downloads\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aluno\Downloads\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.WebPages.dll
+C:\Users\aluno\Downloads\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.WebPages.Razor.dll
+C:\Users\aluno\Downloads\XPTO2.0\XPTO New\XPTO New Site\bin\WebGrease.dll
+C:\Users\aluno\Downloads\XPTO2.0\XPTO New\XPTO New Site\bin\Antlr3.Runtime.pdb
+C:\Users\aluno\Downloads\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.Helpers.xml
+C:\Users\aluno\Downloads\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.Mvc.xml
+C:\Users\aluno\Downloads\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.Optimization.xml
+C:\Users\aluno\Downloads\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.Razor.xml
+C:\Users\aluno\Downloads\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.WebPages.xml
+C:\Users\aluno\Downloads\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aluno\Downloads\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.WebPages.Razor.xml
+F:\XPTO2.0\XPTO New\XPTO New Site\bin\XPTO New Site.dll.config
+F:\XPTO2.0\XPTO New\XPTO New Site\bin\XPTO New Site.dll
+F:\XPTO2.0\XPTO New\XPTO New Site\bin\XPTO New Site.pdb
+F:\XPTO2.0\XPTO New\XPTO New Site\bin\Antlr3.Runtime.dll
+F:\XPTO2.0\XPTO New\XPTO New Site\bin\Microsoft.Web.Infrastructure.dll
+F:\XPTO2.0\XPTO New\XPTO New Site\bin\Newtonsoft.Json.dll
+F:\XPTO2.0\XPTO New\XPTO New Site\bin\System.Net.Http.Formatting.dll
+F:\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.Helpers.dll
+F:\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.Http.dll
+F:\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.Http.WebHost.dll
+F:\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.Mvc.dll
+F:\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.Optimization.dll
+F:\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.Razor.dll
+F:\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.WebPages.Deployment.dll
+F:\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.WebPages.dll
+F:\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.WebPages.Razor.dll
+F:\XPTO2.0\XPTO New\XPTO New Site\bin\WebGrease.dll
+F:\XPTO2.0\XPTO New\XPTO New Site\bin\Antlr3.Runtime.pdb
+F:\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.Helpers.xml
+F:\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.Mvc.xml
+F:\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.Optimization.xml
+F:\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.Razor.xml
+F:\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.WebPages.xml
+F:\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.WebPages.Deployment.xml
+F:\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.WebPages.Razor.xml
+F:\XPTO2.0\XPTO New\XPTO New Site\bin\Newtonsoft.Json.xml
+F:\XPTO2.0\XPTO New\XPTO New Site\bin\System.Net.Http.Formatting.xml
+F:\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.Http.xml
+F:\XPTO2.0\XPTO New\XPTO New Site\bin\System.Web.Http.WebHost.xml
+F:\XPTO2.0\XPTO New\XPTO New Site\obj\Debug\XPTO New Site.csprojResolveAssemblyReference.cache
+F:\XPTO2.0\XPTO New\XPTO New Site\obj\Debug\XPTO New Site.dll
+F:\XPTO2.0\XPTO New\XPTO New Site\obj\Debug\XPTO New Site.pdb
